@@ -18,3 +18,10 @@ Q. How do I sideload them?
 A. You must use a rooted android phone and the app VeryFit/VeryFit Ultra.
 
 More Q&As coming soon!
+
+# How to sideload them
+
+1. Use a rooted android phone.
+2. Copy the zip tp the dial folder
+3. Replace convert the .zip to .iwf in the VeryFit folder
+4. Enjoy!
