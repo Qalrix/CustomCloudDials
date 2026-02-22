@@ -22,6 +22,8 @@ This folder containing source-code is for experimental use only. Use these codes
 - sifli_dial/ido_app_custom_dial_make.h
 - sifli-dial/ido_cJSON.c
 - sifli-dial/ido_cJSON.h
+- mkWatchFace.cpp
+- mkWatchFace.h
 
 # 如何使用 mkWatchFace
 1. 使用代码开发环境 (IDE)，例如 Code::Blocks IDE、VS Code 等。
